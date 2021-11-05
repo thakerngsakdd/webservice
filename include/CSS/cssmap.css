@@ -1,0 +1,63 @@
+.well {
+    max-width: 940px;
+}
+
+.btn {
+    width: 100%;
+}
+
+.form-group {
+    vertical-align: bottom;
+    vertical-align: bottom !important;
+    bottom: 0 !important;
+}
+
+.input-group-addon {
+    top: -0px;
+    background: white;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    border-left-width: 0px;
+}
+
+.glyphicon:hover {
+    color: green;
+}
+
+h1 {
+    font-size: 250%;
+    font-weight: bold;
+    color: grey;
+    text-align: center;
+}
+
+#map {
+    width: 100%;
+    height: 400px;
+}
+
+#route {
+    border-right-width: 0px;
+}
+
+#infoPanel {
+    margin-left: 5px;
+}
+
+#infoPanel div {
+    margin-bottom: 5px;
+}
+
+
+/*#result {
+  margin-left: 60px;
+}*/
+
+.col-xs-12 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+ul {
+    font-family: monospace;
+    list-style: none;
+}
